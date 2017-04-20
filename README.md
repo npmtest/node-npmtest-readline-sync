@@ -1,4 +1,7 @@
-# test coverage for  [readline-sync (v1.4.7)](https://github.com/anseki/readline-sync)  [![npm package](https://img.shields.io/npm/v/npmtest-readline-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-readline-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-readline-sync.svg)](https://travis-ci.org/npmtest/node-npmtest-readline-sync)
+# npmtest-readline-sync
+
+#### basic test coverage for  [readline-sync (v1.4.7)](https://github.com/anseki/readline-sync)  [![npm package](https://img.shields.io/npm/v/npmtest-readline-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-readline-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-readline-sync.svg)](https://travis-ci.org/npmtest/node-npmtest-readline-sync)
+
 #### Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).
 
 [![NPM](https://nodei.co/npm/readline-sync.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/readline-sync)
